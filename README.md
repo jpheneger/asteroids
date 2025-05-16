@@ -22,10 +22,8 @@ python3 main.py
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Joshua Pheneger 
-ex. [@DomPizzie](https://github.com/jpheneger)
+Joshua Pheneger 
+[@jpheneger](https://github.com/jpheneger)
 
 ## Version History
 
@@ -34,7 +32,7 @@ ex. [@DomPizzie](https://github.com/jpheneger)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
