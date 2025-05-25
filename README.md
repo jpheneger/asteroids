@@ -21,7 +21,7 @@ python3 main.py
 ```
 
 ## Authors
-
+Contributing
 Joshua Pheneger 
 [@jpheneger](https://github.com/jpheneger)
 
